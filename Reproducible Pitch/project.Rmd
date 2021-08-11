@@ -4,10 +4,6 @@ This presentation is part of the Developing Data Products Coursera.org course pr
 
 It is an R Presentation generated with RStudio.
 
-The Shiny application pitched by this presentation is at https://halici.shinyapps.io/Gapminder-Data-Visualization-using-Shiny-and-Plotly/
-
-The Shiny app source code is available at https://github.com/nihathalici/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/tree/master/Shiny 
-
 
 ## Application Overview
 
@@ -32,11 +28,3 @@ There are two tabs in main panel as below:
 
 - Plot: This displays plot for corresponding dataframe
 - Table: This displays a searchable-interactive Table for corresponding dataframe
-
-![](gapminder_using_shiny_1.png)
-
-## Ready to give it a try?
-
-Use the Shiny app at https://halici.shinyapps.io/Gapminder-Data-Visualization-using-Shiny-and-Plotly/ 
-
-Get the app source code at https://github.com/nihathalici/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch
