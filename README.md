@@ -17,10 +17,9 @@ Included in this project are:
 UI Examples
 ========================================================
 
-![](https://github.com/abenlou/Data_Product/blob/master/gapminder_using_shiny_1.PNG)
-![](https://github.com/DeftPenk/reproducibleresearch/blob/master/Project1/unnamed-chunk-1.png)
+![Plot Tab](https://github.com/nihathalici/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_1.PNG)
 
-![](https://github.com/abenlou/Data_Product/blob/master/gapminder_using_shiny_2.PNG)
+![Table Tab](https://github.com/nihathalici/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_2.PNG)
 
 server.R
 ========================================================
