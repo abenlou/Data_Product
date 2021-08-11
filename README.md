@@ -17,9 +17,10 @@ Included in this project are:
 UI Examples
 ========================================================
 
-![Plot Tab](https://github.com/abenlou/Data_Product/blob/master/gapminder_using_shiny_1.PNG)
+![](https://github.com/abenlou/Data_Product/blob/master/gapminder_using_shiny_1.PNG)
+![](https://github.com/DeftPenk/reproducibleresearch/blob/master/Project1/unnamed-chunk-1.png)
 
-![Table Tab](https://github.com/abenlou/Data_Product/blob/master/gapminder_using_shiny_2.PNG)
+![](https://github.com/abenlou/Data_Product/blob/master/gapminder_using_shiny_2.PNG)
 
 server.R
 ========================================================
